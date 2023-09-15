@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'mark-pro-bold';
+    src:url('../../../files/fonts/mark-pro-bold.woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face{
+    font-family: 'mark-pro-regular';
+    src:url('../../../files/fonts/mark-pro-regular.woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
